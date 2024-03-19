@@ -1,1 +1,1 @@
-# skin-cancer-detections
+# skin-cancer-detection
